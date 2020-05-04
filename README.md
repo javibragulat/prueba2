@@ -1,2 +1,2 @@
 # prueba2
-holalola
+git init
